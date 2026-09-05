@@ -8,4 +8,4 @@ jobs:
      - name: hello world
        run: echo "Hello world from github action"
      - name: print take care
-       run: echo "take care bro"
+       run: echo "take care !"
